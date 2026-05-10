@@ -1,0 +1,212 @@
+import { Recipe } from '../types';
+
+export const recipes51: Recipe[] = [
+  {
+    id: "plat-pate-7",
+  imageUrl: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fdoen%C3%A7a-da-s%C3%ADndrome-inf%C3%A2ncia-infec%C3%A7%C3%A3o-do-problema-sintoma-dor-joelho-menino-conceito-de-nboy-144325593.jpg",
+    title: "JOELHO (Menino Prendado)",
+    category: "Plats Uniques & Pâtes",
+    ingredients: [
+      "Massa :",
+      "500 ML DE LEITE MORNO",
+      "5 G DE FERMENTO BIOLÓGICO INSTANTÂNEO SECO (ou 42 g de levure fraîche)",
+      "6 COLHERES DE SOPA DE AÇÚCAR",
+      "2 OVO",
+      "4 COLHERES DE SOPA DE MANTEIGA OU MARGARINA",
+      "Environ 1 KG DE FARINHA DE TRIGO SEM FERMENTO",
+      "1 COLHER DE CHÁ DE SAL",
+      "Recheio:",
+      "300 g de jambon ralado",
+      "300 g de gruyere ralado",
+      "1 pequena tomate picada",
+      "oregano"
+    ],
+    instructions: [
+      "(Massa)",
+      "- Lait + fermento (Si c’est avec la levure fraîche : l’écraser avec le sucre )",
+      "- Ajouter le sucre",
+      "- Ajouter oeuf + beurre",
+      "- Ajouter TRÈS progressivement la farine + sel = avoir une pâte lisse mais encore TRÈS molle (J’ai mis 1 KG moins 2 CAS de farine)",
+      "- Repos 1H",
+      "- Etaler la pâte en un long rectangle",
+      "- Le garnir en son milieu",
+      "- Rabattre la pâte en son milieu",
+      "- Couper des tranches de 5 cm de largeur",
+      "- Les dorer à l’oeuf",
+      "- Cuire à 180°C pendant 20-25 min"
+    ]
+  },
+  {
+    id: "plat-pate-8",
+    title: "LASAGNES BOLO (Natasha Kitchen)",
+    imageUrl: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.177milkstreet.com%2Fproduction%2F7b94ac33608c31b2cbc729433670e3effb6a2cef-2000x1334.jpg%3Frect%3D333%2C0%2C1334%2C1334%26w%3D3840%26h%3D3840%26q%3D80%26auto%3Dformat%26fit%3Dmax",
+    category: "Plats Uniques & Pâtes",
+    yield: "(10 pers)",
+    ingredients: [
+      "Sauce bolo (sera à diviser en 3) :",
+      "700 g de boeuf haché",
+      "1 oignon finement émincé",
+      "2 gousses d’ail émincées",
+      "¼ cup de vin rouge (ou bouillon)",
+      "1 CAS huile",
+      "3 cup (800 g) de sauce tomate",
+      "1 ½ CAC sel + poivre",
+      "1 CAS sucre",
+      "persil / t hym",
+      "Sauce (sera à diviser en 2) :",
+      "1000 g de ricotta",
+      "1 gros oeuf",
+      "persil",
+      "Lasagnes :",
+      "9 feuilles longues de lasagne cuites al dente (pour 3 étages)",
+      "6 cup (750 g) de mozzarella râpée"
+    ],
+    instructions: [
+      "(Sauce bolo)",
+      "- Poêle : huile + oignon",
+      "- Ajouter la viande + ail + vin + sauce tomate + sel + poivre +sucre + thym + persil",
+      "- Couvrir et laisser cuire 5 min",
+      "(Sauce)",
+      "- Tout mélanger",
+      "(Montage)",
+      "- Plat à gratin : napper le fond d’un peu de sauce bolo / couche de lasagne / ⅓ couche sauce bolo / parsemer de mozzarella / ½ couche sauce blanche",
+      "- couche de lasagne / ⅓ couche de bolo / mozzarella / ½ couche sauce blanche",
+      "- couche de lasagne / ⅓ sauce bolo / mozzarella",
+      "- couvrir avec une feuille d’aluminium en ayant installé des cure-dents sur le dessus du plat",
+      "- Cuire 45 min à 190°C",
+      "- Retirer la feuille d’aluminium et faire dorer (environ 5 min) (attendre 30 min et couper 10 parts)"
+    ]
+  },
+  {
+    id: "plat-pate-9",
+    title: "LASAGNES AUX 4 FROMAGES (Menino Prendado)",
+    imageUrl: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.giallozafferano.fr%2Fimages%2F21-2174%2Flasagnes-au-four_1200x800.jpg",
+    category: "Plats Uniques & Pâtes",
+    ingredients: [
+      "Sauce blanche:",
+      "2 COLHERES DE SOPA DE MANTEIGA OU MARGARINA",
+      "1 COLHER DE SOPA DE FARINHA DE TRIGO",
+      "500 ML DE LEITE INTEGRAL",
+      "1 POTE DE REQUEIJÃO CREMOSO (200 GRAMAS)",
+      "SAL E PIMENTA DO REINO Á GOSTO",
+      "1 PITADA DE NOZ MOSCADA RALADA NA HORA",
+      "1 CAIXA DE CREME DE LEITE",
+      "Os queijos:",
+      "250 GRAMAS DE QUEIJO MUSSARELA RALADO",
+      "250 GRAMAS DE QUEIJO PROVOLONE RALADO",
+      "250 GRAMAS DE QUEIJO PARMESÃO RALADO",
+      "250 GRAMAS DE QUEIJO QUEIJO PRATO RALADO",
+      "Massa :",
+      "500 GRAMAS DE MASSA DE LASANHA FRESCA"
+    ],
+    instructions: [
+      "(Sauce blanche)",
+      "- Faire une béchamel",
+      "- Ajouter le requeijao",
+      "(Os queijos)",
+      "- Mélanger tous les fromages",
+      "(Montage)",
+      "- Les lasagnes doivent toujours se trouver en contact avec la sauce :(5 couches)",
+      "- x sauce blanche",
+      "- x lasagnes",
+      "- x sauce blanche",
+      "- x couche fromages",
+      "- x lasagnes",
+      "- x sauce blanche",
+      "- x fromages",
+      "- x lasagnes",
+      "- x sauce blanche",
+      "- x fromages …",
+      "- Cuire à 180°C pendant 30-40 min"
+    ]
+  },
+  {
+    id: "plat-pate-10",
+    title: "MAC & CHEESE (Ina garten)",
+    imageUrl: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flookaside.instagram.com%2Fseo%2Fgoogle_widget%2Fcrawler%2F%3Fmedia_id%3D3828382840832209553",
+    category: "Plats Uniques & Pâtes",
+    yield: "(Pour 2 ramequins)",
+    ingredients: [
+      "100 g de tranches de bacon grillés (four 15-20 min) et émiettés",
+      "2 cups nouilles pas cuites (queue de cochon)",
+      "1 1/2 cups lait",
+      "2 CAS beurre",
+      "2 CAS farine",
+      "100 g de gruyère râpé",
+      "90 g de cheddar râpé",
+      "60 g de bleu",
+      "poivre",
+      "muscade",
+      "2 toasts",
+      "2 CAS de basilic frais"
+    ],
+    instructions: [
+      "- Cuire les nouilles al dente",
+      "- Chauffer le lait",
+      "- Casserole : beurre fondu + farine = 2 min",
+      "- Ajouter le lait chaud = cuire 2 min",
+      "- Hors feu, ajouter le gruyère + cheddar + bleu + sel + poivre + muscade",
+      "- Ajouter les nouilles + bacon",
+      "- Remplir é ramequins",
+      "- Dans le robot lame : les toasts + basilic = crumble",
+      "- En parsemer les ramequins",
+      "- Cuire 35-40 min"
+    ]
+  },
+  {
+    id: "plat-pate-11",
+    title: "NOUILLES AU CITRON ET PARMESAN",
+    imageUrl: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fres.cloudinary.com%2Fhv9ssmzrz%2Fimage%2Ffetch%2Fc_fill%2Cf_auto%2Ch_444%2Cq_auto%3Aeco%2Cw_592%2Fhttps%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Fimages-ca-1-0-1-eu%2Frecipe_photos%2Foriginal%2F147231%2Fimg_2038.jpg",
+    category: "Plats Uniques & Pâtes",
+    ingredients: [
+      "Nouilles cuites",
+      "basilic",
+      "Crème liquide",
+      "4 citrons",
+      "cubes de beurre froid",
+      "sel / poivre",
+      "parmesan râpé"
+    ],
+    instructions: [
+      "- Mélanger : crème + zeste des citrons + beurre + sel + poivre + parmesan",
+      "- Ajouter les nouilles",
+      "- Mettre des zestes + parmesan + basilic"
+    ]
+  },
+  {
+    id: "plat-pate-12",
+    title: "PARMENTIER DE CONFIT DE CANARD",
+    imageUrl: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fentrelapoireetlefromage.com%2Fblog%2Fwp-content%2Fuploads%2F2019%2F12%2FParmentier-de-Canard-Confit-Panais-1.png",
+    category: "Plats Uniques & Pâtes",
+    yield: "(4 pers)",
+    ingredients: [
+      "4 cuisses de canard confites",
+      "2 oignons finement émincés",
+      "2 échalotes finement émincées",
+      "50 g de noisettes concassées",
+      "Une dizaine de PDT",
+      "1 noix de beurre",
+      "2 CAS crème liquide",
+      "lait",
+      "muscade",
+      "sel",
+      "poivre"
+    ],
+    instructions: [
+      "- Torréfier les noisettes 5 min au four. Concassez-les grossièrement",
+      "- Peler les PDT et les cuire environ 20 min dans l’eau avec démarrage à froid",
+      "- Désosser et effilocher les cuisses de canard et retirer le gras. (Garder 2 CAS de graisse)",
+      "- Mettre les 2 CAS de graisses dans une poêle et y faire revenir les échalotes + oignons pendant 5-10 min",
+      "- Ajouter la chair des confits, faire légèrement griller 5 min maximum pour ne pas trop les dessécher.",
+      "- Ajouter les noisettes",
+      "- Une fois cuite, battre les PDT",
+      "- Ajouter lait + crème pour assouplir la purée",
+      "- Ajouter la muscade + sel + poivre",
+      "- Mettre la moitié de la viande dans le fond d’un plat",
+      "- Mélanger l’autre moitié de la viande + la même quantité de purée",
+      "- Etaler sur la 1ere couche",
+      "- Finir avec le reste de purée",
+      "- Strier le dessus avec une fourchette et enfourner 25 min à 200°C pour que ce soit joliment doré"
+    ]
+  }
+];

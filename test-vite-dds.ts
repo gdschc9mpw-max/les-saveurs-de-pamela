@@ -1,0 +1,1 @@
+import { searchImages } from "duck-duck-scrape"; console.log(searchImages);
